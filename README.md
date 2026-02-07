@@ -45,7 +45,7 @@ Check out my repositories below for DevOps projects, cloud infrastructure exampl
 
 ## 🐝 Connect with Me
 
-- **LinkedIn**: [Revanth Kodam](https://linkedin.com/in/revanthkodam23)
+- **LinkedIn**: [Revanth Kodam](www.linkedin.com/in/revanth-kodam)
 - **GitHub**: [@revanthkodam23](https://github.com/revanthkodam23)
 - **Email**: Available upon request
 
